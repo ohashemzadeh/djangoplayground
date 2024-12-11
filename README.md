@@ -1,3 +1,2 @@
 # djangoplayground
-
-Hello
+A simple Django playground to practice whatever I want
